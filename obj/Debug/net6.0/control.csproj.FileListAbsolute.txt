@@ -1,0 +1,15 @@
+E:\education1\controlwork\control\bin\Debug\net6.0\control.exe
+E:\education1\controlwork\control\bin\Debug\net6.0\control.deps.json
+E:\education1\controlwork\control\bin\Debug\net6.0\control.runtimeconfig.json
+E:\education1\controlwork\control\bin\Debug\net6.0\control.dll
+E:\education1\controlwork\control\bin\Debug\net6.0\control.pdb
+E:\education1\controlwork\control\obj\Debug\net6.0\control.csproj.AssemblyReference.cache
+E:\education1\controlwork\control\obj\Debug\net6.0\control.GeneratedMSBuildEditorConfig.editorconfig
+E:\education1\controlwork\control\obj\Debug\net6.0\control.AssemblyInfoInputs.cache
+E:\education1\controlwork\control\obj\Debug\net6.0\control.AssemblyInfo.cs
+E:\education1\controlwork\control\obj\Debug\net6.0\control.csproj.CoreCompileInputs.cache
+E:\education1\controlwork\control\obj\Debug\net6.0\control.dll
+E:\education1\controlwork\control\obj\Debug\net6.0\refint\control.dll
+E:\education1\controlwork\control\obj\Debug\net6.0\control.pdb
+E:\education1\controlwork\control\obj\Debug\net6.0\control.genruntimeconfig.cache
+E:\education1\controlwork\control\obj\Debug\net6.0\ref\control.dll
